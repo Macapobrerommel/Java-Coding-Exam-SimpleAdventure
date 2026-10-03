@@ -4,23 +4,23 @@ A simple Java project that demonstrates object-oriented programming concepts thr
 
 Features
 
-Create and manage Person objects.
-
-Create different types of Item, including Food and Weapon.
-
-Weapons can attack characters.
-
-Food can heal characters.
-
-Demonstrates inheritance and polymorphism.
-
-Uses instanceof for type checking.
+  Create and manage Person objects.
+  
+  Create different types of Item, including Food and Weapon.
+  
+  Weapons can attack characters.
+  
+  Food can heal characters.
+  
+  Demonstrates inheritance and polymorphism.
+  
+  Uses instanceof for type checking.
 
 Technologies
 
-Java
-
-Object-Oriented Programming (OOP)
+  Java
+  
+  Object-Oriented Programming (OOP)
 
 How to Run
 
