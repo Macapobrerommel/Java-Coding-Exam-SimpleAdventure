@@ -1,0 +1,27 @@
+Java Coding Exam: SimpleAdventure
+
+A simple Java project that demonstrates object-oriented programming concepts through characters and items in an adventure setting.
+
+Features
+
+Create and manage Person objects.
+
+Create different types of Item, including Food and Weapon.
+
+Weapons can attack characters.
+
+Food can heal characters.
+
+Demonstrates inheritance and polymorphism.
+
+Uses instanceof for type checking.
+
+Technologies
+
+Java
+
+Object-Oriented Programming (OOP)
+
+How to Run
+
+Compile and run the Main class using any Java IDE or a Java compiler.
